@@ -27,3 +27,9 @@ div {
 div .center {
     margin:0,auto;
 }
+
+p {
+    color:red;
+    width:100px;
+    height:200px;
+}
