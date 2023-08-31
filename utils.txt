@@ -23,3 +23,7 @@ div {
     height:600px;
     color:green;
 }
+
+div .center {
+    margin:0,auto;
+}
